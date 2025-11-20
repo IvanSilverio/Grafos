@@ -1,0 +1,202 @@
+ID_Aula,ID_Disciplina,Nome,Curso,Periodo,Professor,Lab_Requerido,CH_Aula
+XDES01_0_A,XDES01,Fundamentos de Programação,CCO,1,Prof. CCO_16,Lab_Redes,2
+XDES01_0_B,XDES01,Fundamentos de Programação,CCO,1,Prof. CCO_16,Lab_Redes,2
+CRSC03_1_A,CRSC03,Arquitetura de Computadores I,CCO,1,Prof. CCO_4,Lab_Hardware,2
+CRSC03_1_B,CRSC03,Arquitetura de Computadores I,CCO,1,Prof. CCO_4,Lab_Hardware,2
+XMAC01_2_A,XMAC01,Matemática Discreta,CCO,1,Prof. CCO_1,,2
+XMAC01_2_B,XMAC01,Matemática Discreta,CCO,1,Prof. CCO_1,,2
+CAHC04_3_A,CAHC04,Projeto Integrado,CCO,1,Prof. CCO_20,,2
+XDES02_4_A,XDES02,Programação Orientada a Objetos,CCO,3,Prof. CCO_18,,2
+XDES02_4_B,XDES02,Programação Orientada a Objetos,CCO,3,Prof. CCO_18,,2
+XDES04_5_A,XDES04,Engenharia de Software I,CCO,3,Prof. CCO_15,,2
+XDES04_5_B,XDES04,Engenharia de Software I,CCO,3,Prof. CCO_15,,2
+CTCO02_6_A,CTCO02,Algoritmos e Estrutura de Dados II,CCO,3,Prof. CCO_4,Lab_Redes,2
+CTCO02_6_B,CTCO02,Algoritmos e Estrutura de Dados II,CCO,3,Prof. CCO_4,Lab_Redes,2
+CRSC02_7_A,CRSC02,Sistemas Operacionais,CCO,3,Prof. CCO_16,Lab_Hardware,2
+CRSC02_7_B,CRSC02,Sistemas Operacionais,CCO,3,Prof. CCO_16,Lab_Hardware,2
+CMAC03_8_A,CMAC03,Algoritmos em Grafos,CCO,3,Prof. CCO_2,,2
+CMAC03_8_B,CMAC03,Algoritmos em Grafos,CCO,3,Prof. CCO_2,,2
+XMAC02_9_A,XMAC02,Métodos Matemáticos para Análise de Dados,CCO,3,Prof. CCO_15,,2
+XMAC02_9_B,XMAC02,Métodos Matemáticos para Análise de Dados,CCO,3,Prof. CCO_15,,2
+CTCO05_10_A,CTCO05,Teoria da Computação,CCO,5,Prof. CCO_19,,2
+CTCO05_10_B,CTCO05,Teoria da Computação,CCO,5,Prof. CCO_19,,2
+CTCO03_11_A,CTCO03,Análise e Projeto Orientados a Objetos,CCO,5,Prof. CCO_6,,2
+CTCO03_11_B,CTCO03,Análise e Projeto Orientados a Objetos,CCO,5,Prof. CCO_6,,2
+XPAD01_12_A,XPAD01,Banco de Dados I,CCO,5,Prof. CCO_9,Lab_Redes,2
+XPAD01_12_B,XPAD01,Banco de Dados I,CCO,5,Prof. CCO_9,Lab_Redes,2
+XMCO01_13_A,XMCO01,Inteligência Artificial,CCO,5,Prof. CCO_9,Lab_Hardware,2
+XMCO01_13_B,XMCO01,Inteligência Artificial,CCO,5,Prof. CCO_9,Lab_Hardware,2
+CMCO05_14_A,CMCO05,Introdução à Computação Visual,CCO,5,Prof. CCO_14,,2
+CMCO05_14_B,CMCO05,Introdução à Computação Visual,CCO,5,Prof. CCO_14,,2
+XAHC01_15_A,XAHC01,Computação e Sociedade,CCO,7,Prof. CCO_11,,2
+XAHC01_15_B,XAHC01,Computação e Sociedade,CCO,7,Prof. CCO_11,,2
+XAHC03_16_A,XAHC03,Metodologia Científica,CCO,7,Prof. CCO_10,,2
+XAHC03_16_B,XAHC03,Metodologia Científica,CCO,7,Prof. CCO_10,,2
+XDES01_17_A,XDES01,Fundamentos de Programação,SIN,1,Prof. SIN_18,,2
+XDES01_17_B,XDES01,Fundamentos de Programação,SIN,1,Prof. SIN_18,,2
+SAHC04_18_A,SAHC04,Projeto Integrado,SIN,1,Prof. SIN_9,Lab_Redes,2
+SAHC05_19_A,SAHC05,Fundamentos de Sistemas de Informação,SIN,1,Prof. SIN_1,Lab_Hardware,2
+SAHC05_19_B,SAHC05,Fundamentos de Sistemas de Informação,SIN,1,Prof. SIN_1,Lab_Hardware,2
+XDES03_20_A,XDES03,Programação Web,SIN,3,Prof. SIN_3,,2
+XDES03_20_B,XDES03,Programação Web,SIN,3,Prof. SIN_3,,2
+SDES05_21_A,SDES05,Engenharia de Software II,SIN,3,Prof. SIN_5,,2
+SDES05_21_B,SDES05,Engenharia de Software II,SIN,3,Prof. SIN_5,,2
+STCO02_22_A,STCO02,Algoritmos e Programação II,SIN,3,Prof. SIN_6,,2
+STCO02_22_B,STCO02,Algoritmos e Programação II,SIN,3,Prof. SIN_6,,2
+SRSC03_23_A,SRSC03,Organização e Arquitetura de Computadores,SIN,3,Prof. SIN_13,,2
+SRSC03_23_B,SRSC03,Organização e Arquitetura de Computadores,SIN,3,Prof. SIN_13,,2
+SPAD02_24_A,SPAD02,Banco de Dados II,SIN,5,Prof. SIN_12,Lab_Redes,2
+SPAD02_24_B,SPAD02,Banco de Dados II,SIN,5,Prof. SIN_12,Lab_Redes,2
+SPAD03_25_A,SPAD03,Introdução à Análise de Dados,SIN,5,Prof. SIN_16,Lab_Hardware,2
+SPAD03_25_B,SPAD03,Introdução à Análise de Dados,SIN,5,Prof. SIN_16,Lab_Hardware,2
+XRSC01_26_A,XRSC01,Redes de Computadores ,SIN,5,Prof. SIN_2,,2
+XRSC01_26_B,XRSC01,Redes de Computadores ,SIN,5,Prof. SIN_2,,2
+SDES07_27_A,SDES07,Desenvolvimento de Sistemas na Web,SIN,7,Prof. SIN_9,,2
+SDES07_27_B,SDES07,Desenvolvimento de Sistemas na Web,SIN,7,Prof. SIN_9,,2
+XAHC02_28_A,XAHC02,Interação Humano Computador,SIN,7,Prof. SIN_8,,2
+XAHC02_28_B,XAHC02,Interação Humano Computador,SIN,7,Prof. SIN_8,,2
+SADG01_29_A,SADG01,Gestão e Governança de TI,SIN,9,Prof. SIN_5,,2
+SADG01_29_B,SADG01,Gestão e Governança de TI,SIN,9,Prof. SIN_5,,2
+SIN414_30_A,SIN414,Auditoria e Segurança de Sistemas,SIN,7,Prof. SIN_12,Lab_Redes,2
+CCO016_31_A,CCO016,Fundamentos de Programação (EMT),CCO016,-,Prof. CCO_11,Lab_Hardware,2
+CCO016_31_B,CCO016,Fundamentos de Programação (EMT),CCO016,-,Prof. CCO_11,Lab_Hardware,2
+CCO016_32_A,CCO016,Fundamentos de Programação (EME) (2 Turmas),CCO016,-,Prof. CCO_6,,2
+CCO016_32_B,CCO016,Fundamentos de Programação (EME) (2 Turmas),CCO016,-,Prof. CCO_6,,2
+CCO016_33_A,CCO016,Fundamentos de Programação (EBP / ECI) (2 Turmas),CCO016,-,Prof. CCO_18,,2
+CCO016_33_B,CCO016,Fundamentos de Programação (EBP / ECI) (2 Turmas),CCO016,-,Prof. CCO_18,,2
+CCO016_34_A,CCO016,Fundamentos de Programação (MBA),CCO016,-,Prof. CCO_2,,2
+CCO016_34_B,CCO016,Fundamentos de Programação (MBA),CCO016,-,Prof. CCO_2,,2
+CCO016_35_A,CCO016,Fundamentos de Programação (EMA / EEN) (2 Turmas),CCO016,-,Prof. CCO_9,,2
+CCO016_35_B,CCO016,Fundamentos de Programação (EMA / EEN) (2 Turmas),CCO016,-,Prof. CCO_9,,2
+SADG02_36_A,SADG02,Economia da Informação,Optativas,1,Prof. CCO_16,Lab_Redes,2
+SADG02_36_B,SADG02,Economia da Informação,Optativas,1,Prof. CCO_16,Lab_Redes,2
+XDES11_37_A,XDES11,Tópicos em DES I,Optativas,2,Prof. CCO_7,Lab_Hardware,2
+XDES11_37_B,XDES11,Tópicos em DES I,Optativas,2,Prof. CCO_7,Lab_Hardware,2
+XRSC07_38_A,XRSC07,Computação em Nuvem,Optativas,3,Prof. CCO_3,,2
+XRSC07_38_B,XRSC07,Computação em Nuvem,Optativas,3,Prof. CCO_3,,2
+CMCO07_39_A,CMCO07,Visão Computacional,Optativas,4,Prof. CCO_15,,2
+CMCO07_39_B,CMCO07,Visão Computacional,Optativas,4,Prof. CCO_15,,2
+SDES05_40_A,SDES05,CCO: Engenharia de Software II (turma regular de SIN),Optativas,5,Prof. CCO_14,,2
+SDES05_40_B,SDES05,CCO: Engenharia de Software II (turma regular de SIN),Optativas,5,Prof. CCO_14,,2
+SDES07_41_A,SDES07,CCO: Desenvolvimento de Sistemas Web (turma regular de SIN),Optativas,6,Prof. CCO_17,,2
+SDES07_41_B,SDES07,CCO: Desenvolvimento de Sistemas Web (turma regular de SIN),Optativas,6,Prof. CCO_17,,2
+SADG01_42_A,SADG01,CCO: Gestão e Gorvenança de TI (turma regular de SIN),Optativas,7,Prof. CCO_14,Lab_Redes,2
+SADG01_42_B,SADG01,CCO: Gestão e Gorvenança de TI (turma regular de SIN),Optativas,7,Prof. CCO_14,Lab_Redes,2
+XPAD09_43_A,XPAD09,Análise e Previsão de Séries Temporais,Optativas,8,Prof. CCO_7,Lab_Hardware,2
+XPAD09_43_B,XPAD09,Análise e Previsão de Séries Temporais,Optativas,8,Prof. CCO_7,Lab_Hardware,2
+?_44_A,?,Tópicos em Matemática da Computação,Optativas,9,Prof. CCO_17,,2
+?_44_B,?,Tópicos em Matemática da Computação,Optativas,9,Prof. CCO_17,,2
+XRSCO9_45_A,XRSCO9,Sistemas Distribuídos,Optativas,10,Prof. CCO_13,,2
+XRSCO9_45_B,XRSCO9,Sistemas Distribuídos,Optativas,10,Prof. CCO_13,,2
+XRSC08_46_A,XRSC08,Programação Paralela,Optativas,12,Prof. CCO_12,,2
+XRSC08_46_B,XRSC08,Programação Paralela,Optativas,12,Prof. CCO_12,,2
+XPAD04_47_A,XPAD04,Bancos de Dados NoSQL,Optativas,13,Prof. CCO_20,,2
+XPAD04_47_B,XPAD04,Bancos de Dados NoSQL,Optativas,13,Prof. CCO_20,,2
+XDES16_48_A,XDES16, Fundamentos de Game Design,Optativas,14,Prof. CCO_9,Lab_Redes,2
+XDES16_48_B,XDES16, Fundamentos de Game Design,Optativas,14,Prof. CCO_9,Lab_Redes,2
+PCO209_49_A,PCO209,Engenharia de Software Experimental (Opt+Pós),Poscomp,-,Prof. CCO_8,Lab_Hardware,2
+PCO209_49_B,PCO209,Engenharia de Software Experimental (Opt+Pós),Poscomp,-,Prof. CCO_8,Lab_Hardware,2
+PCO202_50_A,PCO202,Tópicos em Engenharia de Software,Poscomp,-,Prof. CCO_7,,2
+PCO202_50_B,PCO202,Tópicos em Engenharia de Software,Poscomp,-,Prof. CCO_7,,2
+PCO117_51_A,PCO117,Metaheurísticas,Poscomp,-,Prof. CCO_16,,2
+PCO117_51_B,PCO117,Metaheurísticas,Poscomp,-,Prof. CCO_16,,2
+PCO114_52_A,PCO114,Visualização da Informação,Poscomp,-,Prof. CCO_8,,2
+PCO114_52_B,PCO114,Visualização da Informação,Poscomp,-,Prof. CCO_8,,2
+PCO203_53_A,PCO203,Tópicos Especiais em Progamação,Poscomp,-,Prof. CCO_15,,2
+PCO203_53_B,PCO203,Tópicos Especiais em Progamação,Poscomp,-,Prof. CCO_15,,2
+CTCO01_54_A,CTCO01,Algoritmos e Estrutura de Dados I,CCO,2,Prof. CCO_11,Lab_Redes,2
+CTCO01_54_B,CTCO01,Algoritmos e Estrutura de Dados I,CCO,2,Prof. CCO_11,Lab_Redes,2
+CRSC04_55_A,CRSC04,Arquitetura de Computadores II,CCO,2,Prof. CCO_13,Lab_Hardware,2
+CRSC04_55_B,CRSC04,Arquitetura de Computadores II,CCO,2,Prof. CCO_13,Lab_Hardware,2
+CMAC04_56_A,CMAC04,Modelagem Computacional,CCO,2,Prof. CCO_5,,2
+CMAC04_56_B,CMAC04,Modelagem Computacional,CCO,2,Prof. CCO_5,,2
+XDES03_57_A,XDES03,Programação Web,CCO,4,Prof. CCO_18,,2
+XDES03_57_B,XDES03,Programação Web,CCO,4,Prof. CCO_18,,2
+CTCO04_58_A,CTCO04,Projeto e Análise de Algoritmos,CCO,4,Prof. CCO_4,,2
+CTCO04_58_B,CTCO04,Projeto e Análise de Algoritmos,CCO,4,Prof. CCO_4,,2
+XRSC01_59_A,XRSC01,Redes de Computadores,CCO,4,Prof. CCO_14,,2
+XRSC01_59_B,XRSC01,Redes de Computadores,CCO,4,Prof. CCO_14,,2
+CDES05_60_A,CDES05,Programação Lógica e Funcional,CCO,4,Prof. CCO_17,Lab_Redes,2
+CDES05_60_B,CDES05,Programação Lógica e Funcional,CCO,4,Prof. CCO_17,Lab_Redes,2
+CRSC05_61_A,CRSC05,Sistemas Embarcados,CCO,4,Prof. CCO_7,Lab_Hardware,2
+CRSC05_61_B,CRSC05,Sistemas Embarcados,CCO,4,Prof. CCO_7,Lab_Hardware,2
+CMAC05_62_A,CMAC05,Cálculo Numérico para Computação,CCO,4,Prof. CCO_1,,2
+CMAC05_62_B,CMAC05,Cálculo Numérico para Computação,CCO,4,Prof. CCO_1,,2
+CTCO06_63_A,CTCO06,Compiladores,CCO,6,Prof. CCO_2,,2
+CTCO06_63_B,CTCO06,Compiladores,CCO,6,Prof. CCO_2,,2
+XAHC02_64_A,XAHC02,Interação Humano Computador,CCO,6,Prof. CCO_5,,2
+XAHC02_64_B,XAHC02,Interação Humano Computador,CCO,6,Prof. CCO_5,,2
+XDES02_65_A,XDES02,Programação Orientada a Objetos,SIN,2,Prof. SIN_19,,2
+XDES02_65_B,XDES02,Programação Orientada a Objetos,SIN,2,Prof. SIN_19,,2
+XDES04_66_A,XDES04,Engenharia de Software I,SIN,2,Prof. SIN_11,Lab_Redes,2
+XDES04_66_B,XDES04,Engenharia de Software I,SIN,2,Prof. SIN_11,Lab_Redes,2
+STCO01_67_A,STCO01,Algoritmos e Programação I,SIN,2,Prof. SIN_15,Lab_Hardware,2
+STCO01_67_B,STCO01,Algoritmos e Programação I,SIN,2,Prof. SIN_15,Lab_Hardware,2
+XMAC01_68_A,XMAC01,Matemática Discreta,SIN,2,Prof. SIN_17,,2
+XMAC01_68_B,XMAC01,Matemática Discreta,SIN,2,Prof. SIN_17,,2
+XPAD01_69_A,XPAD01,Banco de Dados I,SIN,4,Prof. SIN_6,,2
+XPAD01_69_B,XPAD01,Banco de Dados I,SIN,4,Prof. SIN_6,,2
+XMAC02_70_A,XMAC02,Métodos Matemáticos para Análise de Dados,SIN,4,Prof. SIN_3,,2
+XMAC02_70_B,XMAC02,Métodos Matemáticos para Análise de Dados,SIN,4,Prof. SIN_3,,2
+SMAC03_71_A,SMAC03,Grafos,SIN,4,Prof. SIN_11,,2
+SMAC03_71_B,SMAC03,Grafos,SIN,4,Prof. SIN_11,,2
+SRSC02_72_A,SRSC02,Sistemas Operacionais,SIN,4,Prof. SIN_16,Lab_Redes,2
+SRSC02_72_B,SRSC02,Sistemas Operacionais,SIN,4,Prof. SIN_16,Lab_Redes,2
+SDES06_73_A,SDES06,Gerência de Projeto de Software,SIN,6,Prof. SIN_20,Lab_Hardware,2
+SDES06_73_B,SDES06,Gerência de Projeto de Software,SIN,6,Prof. SIN_20,Lab_Hardware,2
+XMCO01_74_A,XMCO01,Inteligência Artificial,SIN,6,Prof. SIN_8,,2
+XMCO01_74_B,XMCO01,Inteligência Artificial,SIN,6,Prof. SIN_8,,2
+SDES07_75_A,SDES07,Desenvolvimento de Sistemas Web,SIN,8,Prof. SIN_15,,2
+SDES07_75_B,SDES07,Desenvolvimento de Sistemas Web,SIN,8,Prof. SIN_15,,2
+XAHC01_76_A,XAHC01,Computação e Sociedade,SIN,8,Prof. SIN_11,,2
+XAHC01_76_B,XAHC01,Computação e Sociedade,SIN,8,Prof. SIN_11,,2
+XAHC03_77_A,XAHC03,Metodologia Científica,SIN,8,Prof. SIN_10,,2
+XAHC03_77_B,XAHC03,Metodologia Científica,SIN,8,Prof. SIN_10,,2
+CCO016_78_A,CCO016,Fundamentos de Programação (EPR / EHD),CCO016,-,Prof. CCO_4,Lab_Redes,2
+CCO016_78_B,CCO016,Fundamentos de Programação (EPR / EHD),CCO016,-,Prof. CCO_4,Lab_Redes,2
+CCO016_79_A,CCO016,Fundamentos de Programação (EAM),CCO016,-,Prof. CCO_19,Lab_Hardware,2
+CCO016_79_B,CCO016,Fundamentos de Programação (EAM),CCO016,-,Prof. CCO_19,Lab_Hardware,2
+CCO016_80_A,CCO016,Fundamentos de Programação (FBA),CCO016,-,Prof. CCO_12,,2
+CCO016_80_B,CCO016,Fundamentos de Programação (FBA),CCO016,-,Prof. CCO_12,,2
+XMCO09_81_A,XMCO09,Ciência de Redes,Optativas,-,Prof. CCO_6,,2
+XMCO09_81_B,XMCO09,Ciência de Redes,Optativas,-,Prof. CCO_6,,2
+XDES11_82_A,XDES11,Tópicos em Desenvolvimento e Engenharia de Software (PEGA),Optativas,-,Prof. CCO_19,,2
+XDES11_82_B,XDES11,Tópicos em Desenvolvimento e Engenharia de Software (PEGA),Optativas,-,Prof. CCO_19,,2
+CMCO07_83_A,CMCO07,Visão Computacional,Optativas,-,Prof. CCO_20,,2
+CMCO07_83_B,CMCO07,Visão Computacional,Optativas,-,Prof. CCO_20,,2
+XDES10_84_A,XDES10,Engenharia de Software Experimetal,Optativas,-,Prof. CCO_2,Lab_Redes,2
+XDES10_84_B,XDES10,Engenharia de Software Experimetal,Optativas,-,Prof. CCO_2,Lab_Redes,2
+SPAD05_85_A,SPAD05,Análise de Dados Geoespaciais,Optativas,-,Prof. CCO_20,Lab_Hardware,2
+SPAD05_85_B,SPAD05,Análise de Dados Geoespaciais,Optativas,-,Prof. CCO_20,Lab_Hardware,2
+ECOX21_86_A,ECOX21,Maratona de Programação I,Optativas,-,Prof. CCO_1,,2
+XAHC07_87_A,XAHC07,Computação Aplicada à Educação,Optativas,-,Prof. CCO_7,,2
+XAHC07_87_B,XAHC07,Computação Aplicada à Educação,Optativas,-,Prof. CCO_7,,2
+XDES12_88_A,XDES12,Gestão de Produtos Digitais (Tópicos em DES II),Optativas,-,Prof. CCO_18,,2
+XDES12_88_B,XDES12,Gestão de Produtos Digitais (Tópicos em DES II),Optativas,-,Prof. CCO_18,,2
+XDES17_89_A,XDES17,Desenvolvimento de Jogos,Optativas,-,Prof. CCO_20,,2
+XDES17_89_B,XDES17,Desenvolvimento de Jogos,Optativas,-,Prof. CCO_20,,2
+PCO114_90_A,PCO114,Visualização de Informação (Pós+Opt),Poscomp,-,Prof. CCO_15,Lab_Redes,2
+PCO114_90_B,PCO114,Visualização de Informação (Pós+Opt),Poscomp,-,Prof. CCO_15,Lab_Redes,2
+PCO202_91_A,PCO202,Tópicos em Engenharia de Software (Pós),Poscomp,-,Prof. CCO_17,Lab_Hardware,2
+PCO202_91_B,PCO202,Tópicos em Engenharia de Software (Pós),Poscomp,-,Prof. CCO_17,Lab_Hardware,2
+PCO113_92_A,PCO113,ROBÓTICA MÓVEL II,Poscomp,-,Prof. CCO_7,,2
+PCO113_92_B,PCO113,ROBÓTICA MÓVEL II,Poscomp,-,Prof. CCO_7,,2
+PCO003_93_A,PCO003,Sistemas Operacionais (Pós),Poscomp,-,Prof. CCO_3,,2
+MAT00B_94_A,MAT00B,Cálculo B,CCO 2022,2,Prof. CCO_7,,2
+MAT00B_94_B,MAT00B,Cálculo B,CCO 2022,2,Prof. CCO_7,,2
+IEPG21_95_A,IEPG21,Ciências Humanas e Sociais,CCO 2022,2,Prof. CCO_5,,2
+ADM54H_96_A,ADM54H,Gestão de Carreira,CCO 2022,2,Prof. CCO_17,Lab_Redes,2
+LET007_97_A,LET007,LIBRAS,CCO 2022,2,Prof. CCO_15,Lab_Hardware,2
+MAT001_98_A,MAT001,Cálculo I,CCO 2013,2,Prof. CCO_15,,2
+MAT001_98_B,MAT001,Cálculo I,CCO 2013,2,Prof. CCO_15,,2
+MAT001_98_C,MAT001,Cálculo I,CCO 2013,2,Prof. CCO_15,,2
+MAT021_99_A,MAT021,Equações Diferenciais I,CCO 2013,4,Prof. CCO_2,,2
+MAT021_99_B,MAT021,Equações Diferenciais I,CCO 2013,4,Prof. CCO_2,,2
+IEPG04_100_A,IEPG04,Mapeamento de Processos,SIN 2022,2,Prof. SIN_4,,2
+IEPG14_101_A,IEPG14,Comportamento Organizacional I,SIN 2022,4,Prof. SIN_8,,2
+IEPG10_102_A,IEPG10,Engenharia Econômica (COM311),SIN 2022,6,Prof. SIN_15,Lab_Redes,2
+MAT007_103_A,MAT007,Fundamentos Matemáticos para Informática II (MAT00B),SIN2017,2,Prof. SIN_19,Lab_Hardware,2
+MAT007_103_B,MAT007,Fundamentos Matemáticos para Informática II (MAT00B),SIN2017,2,Prof. SIN_19,Lab_Hardware,2
+ADM03E_104_A,ADM03E,Empreendedorismo Tecnológico (SIN312),SIN2017,8,Prof. SIN_11,,2
+SIN310_105_A,SIN310,Introdução à Administração (ADM02H: 1º período de ADM),SIN2017,2,Prof. SIN_12,,2
+SIN310_105_B,SIN310,Introdução à Administração (ADM02H: 1º período de ADM),SIN2017,2,Prof. SIN_12,,2
